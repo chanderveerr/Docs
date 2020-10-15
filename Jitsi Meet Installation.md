@@ -401,6 +401,11 @@ and add mod for conference component
 ```
 muc_mam
 ```
+and 
+
+```
+storage = "sql"
+```
 Finally exit the editor and restart services.
 
 ```
