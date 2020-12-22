@@ -50,5 +50,6 @@ _build/prod/rel/mongooseim/bin/mongooseimctl status
 ```
 # Stop mongooseim
 ```
-_build/prod/rel/mongooseim/bin/mongooseimctl stop
+_build/prod/rel/mongooseim/bin/mongooseimctl stop 
+_build/prod/rel/mongooseim/bin/mongooseimctl status
 ```
