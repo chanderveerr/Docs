@@ -1,4 +1,4 @@
-# This Document only for UBUNTU 18.04
+# This Document only for UBUNTU 20
 
 # Uninstall 
 
