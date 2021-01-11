@@ -63,11 +63,7 @@ apt-get install lua5.2 -y &&
 apt-get install liblua5.2 -y &&
 apt-get install luarocks -y &&
 luarocks install basexx &&
-wget -c https://launchpad.net/~rael-gc/+archive/ubuntu/rvm/+files/libssl1.0.0_1.0.2n-1ubuntu5.3_amd64.deb &&
 apt-get install libssl1.0-dev -y &&
-wget -c https://launchpad.net/~rael-gc/+archive/ubuntu/rvm/+files/libssl1.0-dev_1.0.2n-1ubuntu5.3_amd64.deb &&
-dpkg -i libssl1.0.0_1.0.2n-1ubuntu5.3_amd64.deb &&
-dpkg -i libssl1.0-dev_1.0.2n-1ubuntu5.3_amd64.deb &&
 luarocks install luacrypto &&
 mkdir src &&
 cd src &&
