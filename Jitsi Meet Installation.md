@@ -314,7 +314,7 @@ apt-get install nodejs -y
 
 ```
 git clone https://github.com/jitsi/jitsi-meet
-
+chown -R ubuntu:ubuntu jitsi-meet
 npm install or npm i
 
 ```
